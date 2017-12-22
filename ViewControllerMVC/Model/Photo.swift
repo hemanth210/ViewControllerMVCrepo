@@ -32,5 +32,5 @@ class Photo {
 //        let ratio = image.size.height / image.size.width
 //
 //    }
-//}
+}
 
